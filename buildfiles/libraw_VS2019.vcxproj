@@ -101,7 +101,7 @@
     <ClCompile>
       <AdditionalOptions>-Zm200 -MP %(AdditionalOptions)</AdditionalOptions>
       <Optimization>Disabled</Optimization>
-      <AdditionalIncludeDirectories>..;..\LibRaw-demosaic-pack-GPL2;..\LibRaw-demosaic-pack-GPL3;..\lcms2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..;..\LibRaw-demosaic-pack-GPL2;..\LibRaw-demosaic-pack-GPL3;..\..\lcms2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions>_WINDOWS;UNICODE;WIN32;QT_LARGEFILE_SUPPORT;LIBRAW_BUILDLIB;LIBRAW_NODLL;LIBRAW_DEMOSAIC_PACK_GPL3;LIBRAW_DEMOSAIC_PACK_GPL2;%(PreprocessorDefinitions);LIBRAW_USE_OPENMP;USE_LCMS2</PreprocessorDefinitions>
       <PreprocessToFile>false</PreprocessToFile>
       <PreprocessSuppressLineNumbers>false</PreprocessSuppressLineNumbers>
@@ -132,7 +132,7 @@
     <ClCompile>
       <AdditionalOptions>-Zm200 -MP %(AdditionalOptions)</AdditionalOptions>
       <Optimization>Disabled</Optimization>
-      <AdditionalIncludeDirectories>..;..\LibRaw-demosaic-pack-GPL2;..\LibRaw-demosaic-pack-GPL3;..\lcms2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..;..\LibRaw-demosaic-pack-GPL2;..\LibRaw-demosaic-pack-GPL3;..\..\lcms2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions>_WINDOWS;UNICODE;WIN32;QT_LARGEFILE_SUPPORT;LIBRAW_BUILDLIB;LIBRAW_NODLL;LIBRAW_DEMOSAIC_PACK_GPL3;LIBRAW_DEMOSAIC_PACK_GPL2;%(PreprocessorDefinitions);LIBRAW_USE_OPENMP;USE_LCMS2</PreprocessorDefinitions>
       <PreprocessToFile>false</PreprocessToFile>
       <PreprocessSuppressLineNumbers>false</PreprocessSuppressLineNumbers>
@@ -163,7 +163,7 @@
     <ClCompile>
       <AdditionalOptions>-Zm200 -MP %(AdditionalOptions)</AdditionalOptions>
       <Optimization>MaxSpeed</Optimization>
-      <AdditionalIncludeDirectories>..;..\LibRaw-demosaic-pack-GPL2;..\LibRaw-demosaic-pack-GPL3;..\lcms2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..;..\LibRaw-demosaic-pack-GPL2;..\LibRaw-demosaic-pack-GPL3;..\..\lcms2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions>QT_NO_DEBUG;NDEBUG;_WINDOWS;UNICODE;WIN32;QT_LARGEFILE_SUPPORT;LIBRAW_BUILDLIB;LIBRAW_NODLL;LIBRAW_DEMOSAIC_PACK_GPL3;LIBRAW_DEMOSAIC_PACK_GPL2;%(PreprocessorDefinitions);LIBRAW_USE_OPENMP;USE_LCMS2</PreprocessorDefinitions>
       <PreprocessToFile>false</PreprocessToFile>
       <PreprocessSuppressLineNumbers>false</PreprocessSuppressLineNumbers>
@@ -194,7 +194,7 @@
     <ClCompile>
       <AdditionalOptions>-Zm200 -MP %(AdditionalOptions)</AdditionalOptions>
       <Optimization>MaxSpeed</Optimization>
-      <AdditionalIncludeDirectories>..;..\LibRaw-demosaic-pack-GPL2;..\LibRaw-demosaic-pack-GPL3;..\lcms2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..;..\LibRaw-demosaic-pack-GPL2;..\LibRaw-demosaic-pack-GPL3;..\..\lcms2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions>QT_NO_DEBUG;NDEBUG;_WINDOWS;UNICODE;WIN32;QT_LARGEFILE_SUPPORT;LIBRAW_BUILDLIB;LIBRAW_NODLL;LIBRAW_DEMOSAIC_PACK_GPL3;LIBRAW_DEMOSAIC_PACK_GPL2;%(PreprocessorDefinitions);LIBRAW_USE_OPENMP;USE_LCMS2</PreprocessorDefinitions>
       <PreprocessToFile>false</PreprocessToFile>
       <PreprocessSuppressLineNumbers>false</PreprocessSuppressLineNumbers>
