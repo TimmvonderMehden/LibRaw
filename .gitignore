@@ -1,1 +1,3 @@
 samples/lens-identify.cpp
+buildfiles/*.vcxproj.user
+buildfiles/.vs/
