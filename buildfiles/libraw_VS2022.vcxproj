@@ -22,7 +22,6 @@
     <ProjectName>libraw018</ProjectName>
     <ProjectGuid>{767E57ED-6D37-32A1-B51E-C39E7C1CD02A}</ProjectGuid>
     <Keyword>Qt4VSv1.0</Keyword>
-    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
